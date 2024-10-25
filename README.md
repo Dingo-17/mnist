@@ -77,9 +77,9 @@ The models are evaluated based on test accuracy and visualized through a confusi
 
 | Model                       | Test Accuracy |
 |-----------------------------|---------------|
-| Logistic Regression         | ~[Accuracy]   |
-| Feedforward Neural Network  | ~[Accuracy]   |
-| Convolutional Neural Network| ~[Accuracy]   |
+| Logistic Regression         | ~64 %   |
+| Feedforward Neural Network  | ~86  |
+| Convolutional Neural Network| ~91   |
 
 Additionally, a confusion matrix visualizes the performance of the CNN model on test data, helping identify any specific digit classes that are more prone to misclassification.
 
