@@ -1,7 +1,4 @@
----
-title: "MNIST Image Classification using PyTorch"
-output: github_document
----
+
 
 # MNIST Image Classification using PyTorch
 
